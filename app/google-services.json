@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "864267591902",
+    "firebase_url": "https://database-8070a.firebaseio.com",
+    "project_id": "database-8070a",
+    "storage_bucket": "database-8070a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864267591902:android:9795394d9fc01189",
+        "android_client_info": {
+          "package_name": "com.example.abhi.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864267591902-gt1lobt5e6qfver8h7qoavhn7n40b55t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDunAljNs-1q4OMmRGD3_oVMspLF62mf2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
