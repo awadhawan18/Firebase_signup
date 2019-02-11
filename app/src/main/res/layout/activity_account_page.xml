@@ -8,21 +8,22 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.abhi.database.AccountPage">
+    tools:context="com.example.abhi.signup.AccountPage">
 
     <TextView
-        android:text="Hi"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:id="@+id/textView" />
+        android:id="@+id/hello"
+        android:textColor="@color/black_text"
+        android:textSize="16sp" />
 
     <Button
         android:text="Logout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView"
+        android:layout_below="@+id/hello"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="38dp"
         android:id="@+id/logout" />
